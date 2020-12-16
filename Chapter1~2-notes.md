@@ -75,3 +75,11 @@
 - 共识算法（例如，Proof-of-Work），通过强制参与者竞争并使用共识规则约束他们，来分散区块链的控制权。
 
 上述内容的一个或多个开源软件实现。
+
+## ETH货币单位
+
+![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fac772f29-8f0d-4685-8eb4-bb4ca104fdcb%2FUntitled.png?table=block&id=fdc350df-0e0f-4406-bcc2-cc87b84ad2da&width=1370&userId=&cache=v2)
+
+## Questions
+
+1. 合约账户的应用场景
